@@ -18,3 +18,8 @@ h1 {
     display: block;
     text-align: center;
 }
+
+.programmer {
+    text-decoration: none;
+    color: palevioletred;
+}
