@@ -3,8 +3,14 @@ body {
     background-color: #ead7d7;
 }
 
-h1 {
+h1, h2 {
     text-align: center;
+}
+
+h2 {
+    color: palevioletred;
+    font-size: medium;
+    text-decoration: underline;
 }
 
 .bg-light {
@@ -17,9 +23,4 @@ h1 {
     font-size: larger;
     display: block;
     text-align: center;
-}
-
-.programmer {
-    text-decoration: none !important;
-    color: palevioletred !important;
 }
