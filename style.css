@@ -20,6 +20,6 @@ h1 {
 }
 
 .programmer {
-    text-decoration: none;
-    color: palevioletred;
+    text-decoration: none !important;
+    color: palevioletred !important;
 }
