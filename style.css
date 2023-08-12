@@ -2,21 +2,17 @@ body {
     margin: 100px;
     background-color: #ead7d7;
 }
-
 h1 {
     text-align: center;
 }
-
 h2 {
     color: palevioletred;
     font-size: medium;
     text-align: center;
 }
-
 .bg-light {
     background-color:transparent!important ;
 }
-
 .contact {
     color: palevioletred;
     text-decoration: none;
