@@ -3,14 +3,14 @@ body {
     background-color: #ead7d7;
 }
 
-h1, h2 {
+h1 {
     text-align: center;
 }
 
 h2 {
     color: palevioletred;
     font-size: medium;
-    text-decoration: underline;
+    text-align: center;
 }
 
 .bg-light {
